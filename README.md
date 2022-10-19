@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... liviamattoni@gmail.com
 
-# Hello, I'm [Livia Augusta Mattoni](https://github.com/liviaAugusta/liviaAugusta)
+# Hello, I'm [Livia A. Mattoni](https://github.com/liviaAugusta/liviaAugusta)
 
 <hr>
 

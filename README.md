@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... https://processing.org/
 - 📫 How to reach me ... liviamattoni@gmail.com
 
-# Hello, I'm [Livia A. Mattoni](https://github.com/liviaAugusta/liviaAugusta) <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);>
+# Hello, I'm [Livia A. Mattoni](https://github.com/liviaAugusta/liviaAugusta) 
 
 <hr>
 

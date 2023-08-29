@@ -18,7 +18,7 @@
 <img align='left' alt='HTML' title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='50'>
 <img align='left' alt='CSS' title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='50'>
 <img align='left' alt='SASS' title="SCSS" src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width='50'>
-<img align='left' alt='Bootstrap' title="Bootstrap" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width='50'>
+<img align='left' alt='Bootstrap' title="Bootstrap" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width='60'>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript/ES6" height="50" align="left">
 <img src="https://codability.com.au/wp-content/uploads/2018/01/VueJS_Logo.png" alt="Vue JS" height="50" align="left">
 <img src="https://camo.githubusercontent.com/71b253e4dc762f73df03b1f7ffeb12384c54f81c667c4c1dcec9780c47b237b3/68747470733a2f2f7777772e706e6766696e642e636f6d2f706e67732f6d2f3134362d313436363930325f7068702d6c6f676f2d706e672d7472616e73706172656e742d7068702d6c6f676f2d706e672d706e672e706e67" alt="PHP" height="50" align="left">

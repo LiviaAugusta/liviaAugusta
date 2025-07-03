@@ -37,24 +37,6 @@ Attualmente sto sviluppando una piattaforma per la certificazione ambientale e l
 
 <br><br>
 
----
-
-## 🚀 Progetti attuali
-
-🔧 **[Smart Certification Navigator]**  
-Piattaforma guidata per la gestione di certificazioni ambientali aziendali.  
-→ Dashboard scadenze, archiviazione smart, checklist dinamiche ISO/GRI.
-
-📊 **[One-Click ESG Compliance Check]**  
-Strumento per l’automazione della reportistica ESG con metriche ambientali e normative.  
-→ Export PDF, calcolo KPI, analisi predittiva, grafici custom.
-
-🌿 **[SCI Tracker (Prototype)]**  
-Modulo per la misurazione e ottimizzazione del Software Carbon Intensity.  
-→ Calcolo emissioni CO₂eq, strumenti di refactoring, linee guida Green Software.
-
----
-
 <!---
 liviaAugusta/liviaAugusta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->

@@ -16,7 +16,6 @@ Attualmente sto sviluppando una piattaforma per la certificazione ambientale e l
 📚 In formazione continua su:
 - Standard ISO/IEC 21031:2024 – SCI Specification  
 - [Green Software for Practitioners (LFC131)](https://training.linuxfoundation.org/training/green-software-for-practitioners-lfs131/)  
-- Ingegneria Informatica @Politecnico di Bari (TOLC-I in corso)
 
 📫 **Contattami:** liviamattoni@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/livia-augusta-mattoni](https://www.linkedin.com/in/livia-augusta-mattoni/)

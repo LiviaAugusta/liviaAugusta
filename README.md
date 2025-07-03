@@ -29,7 +29,7 @@ Attualmente sto sviluppando una piattaforma per la certificazione ambientale e l
 <img align='left' alt='CSS' title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='40'>
 <img align='left' alt='SCSS' title="SCSS" src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width='40'>
 <img align='left' alt='Bootstrap' title="Bootstrap" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width='45'>
-<img align='left' alt='JavaScript' title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='40'>
+<img align='left' alt='JavaScript' title="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width='40'>
 <img align='left' alt='Vue.js' title="Vue.js" src="https://codability.com.au/wp-content/uploads/2018/01/VueJS_Logo.png" width='40'>
 <img align='left' alt='PHP' title="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" width='50'>
 <img align='left' alt='Laravel' title="Laravel" src="https://laravel.com/img/logomark.min.svg" width='40'>
